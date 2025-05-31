@@ -13,4 +13,12 @@ pip install -r requirements.txt
 ##  Screenshots
 
 1. User Login and Registration
-   ![Login and Registration Screen]([images/Screenshot 2025-05-31 221033.png](https://github.com/Blahngg/INTECH-3201_FinalProject/blob/9f50853d29aa7d081a7f88fbdc66cc2585d44163/images/Screenshot%202025-05-31%20221033.png))
+   
+   ![Login and Registration Screen](https://github.com/Blahngg/INTECH-3201_FinalProject/blob/9f50853d29aa7d081a7f88fbdc66cc2585d44163/images/Screenshot%202025-05-31%20221033.png?raw=true)
+
+
+2. Main Screen
+
+   ![Login and Registration Screen](https://github.com/Blahngg/INTECH-3201_FinalProject/blob/7f9f3e601c563c18fed8aa3f6584d3847cdb4253/images/Screenshot%202025-05-31%20221044.png?raw=true)
+   
+
