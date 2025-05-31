@@ -4,9 +4,9 @@ Secure File Vault is a Python-based application designed to encrypt and decrypt 
 
 ##  Installation
 
-1. Clone this repository:
-https://github.com/SilentSevenStars/Secure-File-Storage-System-in-Python
-2. On terminal:
+1. Download "intech 3201" from this repository:
+https://github.com/Blahngg/INTECH-3201_FinalProject.git
+2. open terminal then type:
 pip install -r requirements.txt
 
 
