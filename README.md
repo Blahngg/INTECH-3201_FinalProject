@@ -1,1 +1,13 @@
-# INTECH-3201_FinalProject
+# Secure File Vault
+
+Secure File Vault is a Python-based application designed to encrypt and decrypt files using strong cryptographic techniques. It features a simple graphical user interface (GUI) built with Tkinter for ease of use, along with user authentication using password hashing, file encryption/decryption with Fernet (AES), and logging of all user actions for security auditing. The system also includes a separate batch processing script for encrypting or decrypting all files in a folder.
+
+##  Installation
+
+1. Clone this repository:
+https://github.com/SilentSevenStars/Secure-File-Storage-System-in-Python
+2. On terminal:
+pip install -r requirements.txt
+
+
+##  Screenshots
