@@ -11,3 +11,6 @@ pip install -r requirements.txt
 
 
 ##  Screenshots
+
+1. User Login and Registration
+   ![Login and Registration Screen]([images/Screenshot 2025-05-31 221033.png](https://github.com/Blahngg/INTECH-3201_FinalProject/blob/9f50853d29aa7d081a7f88fbdc66cc2585d44163/images/Screenshot%202025-05-31%20221033.png))
